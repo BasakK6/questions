@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Why do you want to work for our company?",
+    "answer": "Interviewers ask this question because they want to understand why you are interested in this role at their company and how your goals can solve their needs. When these things align, it’s usually a good match for both parties.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "What kind of tech team dynamic do you excel in?",
+    "answer": "Interviewers ask this question to evaluate culture fit. Some companies have a top-down culture where leadership prescribes and employees execute. Others have a more democratized, bottom-up culture. This question is one way to determine whether you’re a match.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Let’s say there are two kinds of tech workers: the innovators and the executors. Which of these categories do you fit into?",
+    "answer": "Interviewers ask this question to evaluate your career goals and match them to what they feel the ideal candidate needs to be. More than culture fit, this could be a way to gauge fit for this role or other roles that may be open.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "How do you measure success for yourself technically?",
+    "answer": "Companies will give you feedback using different methods like annual reviews, ongoing areas of growth, etc. However, in an increasingly self-directed workplace, companies want engineers to set measurable goals for success. This question aims to assess how self-directed you can be.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Why do you think that technical teams need to be inclusive and represent a variety of backgrounds?",
+    "answer": "Hiring managers increasingly realize that teams that include diverse perspectives are both fairer and more successful. This question will test your awareness of this issue as well as how you could contribute to it.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "When you join a new technical initiative, what is the first thing you do?",
+    "answer": "The first few weeks for a new employee are critical. They are an opportunity to learn and build relationships. This question will help assess how the candidate sizes up the challenge ahead of them were they to get the job.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "If you had to pick between owning the entire process for one product versus contributing to multiple products at once, how would you decide?",
+    "answer": "This question deals with both culture fit and how you approach choices. There is no right or wrong answer as such, but you do need to show that you make choices thoughtfully and deliberately.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "If you were stuck in solving a technical problem, how would you ask for help?",
+    "answer": "This question will help assess how you will relate to other technical experts. The interviewer is looking for technical judgment combined with relationship-building skills.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "How would you explain concepts like polymorphism and inheritance to a computer science student?",
+    "answer": "Interviewers ask this question to assess your ability to explain technical concepts.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "How would you explain a web service infrastructure to a technical audience with a software background but limited system-level knowledge?",
+    "answer": "This question will help assess how you will relate to individuals with a diverse range of technical depth. The interviewer is looking for technical judgment mixed with human relationship-building skills.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "What would you do if asked to take on a problem where you did not have the technical skills?",
+    "answer": "This question will help assess how you will handle the “skill gap” engineers are often confronted with.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Tell me about the most challenging technical problem you have solved?",
+    "answer": "This question will help assess how you judge difficulty/complexity, your approach to it, and how you improvise and execute.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Explain how you would design a ride-sharing app.",
+    "answer": "This question will help assess your knowledge of web infrastructures and the ability to implement a widely-used functionality.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Explain how you’d design Twitter and the system tradeoffs involved.",
+    "answer": "This question will help assess your knowledge of web infrastructures and the ability to implement a widely-used functionality.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Give me an example of how you’d secure data so that it cannot be misused or inappropriately accessed.",
+    "answer": "This question will help assess your understanding of how data can be protected using a proven security technique.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Tell me about a time you disagreed with a fellow engineer and how that issue was resolved.",
+    "answer": "This question will help assess what it is like to work with you, especially in the context of difficult situations.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Tell me about a time when insights about the industry or customers impacted your technical execution.",
+    "answer": "This question will help assess your ability to listen, solicit feedback and improvise based on new information.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "Tell me about a time you had to push back on an unreasonable request from an executive or customer.",
+    "answer": "This question will help assess your ability to process feedback and hold your ground as needed.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "What do you think an ideal product-engineering relationship should look like?",
+    "answer": "This question will help assess your ability to work with a key engineering partner.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "How would you drive alignment among senior leadership to help accelerate decisions?",
+    "answer": "This question will help assess your ability to influence leaders so as to drive impact for the technical work you wish to do.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "How do you measure success in an engineering project?",
+    "answer": "This question will help assess your ability to work towards outcomes and adhere to missions and goals.",
+    "category": "Software Engineer Questions"
+  },
+  {
+    "title": "What is the mix of technical and management qualities you look for in engineering leaders and managers?",
+    "answer": "This question will help assess your ability to work with different types of leaders who have some degree of authority over you.",
+    "category": "Software Engineer Questions"
+  }
+]

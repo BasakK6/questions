@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Common Questions",
+        "numberOfQuestions": 26,
+        "apiUrl":"https://basakk6.github.io/questions/common_questions.json"
+    },
+    {
+        "name": "Software Engineer Questions",
+        "numberOfQuestions": 22,
+        "apiUrl":"https://basakk6.github.io/questions/software_engineer_questions.json"
+    },
+    {
+        "name": "Behavioral Questions",
+        "numberOfQuestions": 50,
+        "apiUrl":"https://basakk6.github.io/questions/behavioral_questions.json"
+    },
+    {
+        "name": "Flutter & Dart Questions",
+        "numberOfQuestions": 71,
+        "apiUrl":"https://basakk6.github.io/questions/flutter_dart_questions.json"
+    },
+    {
+        "name": "General Programming Questions",
+        "numberOfQuestions": 4,
+        "apiUrl":"https://basakk6.github.io/questions/general_programming_questions.json"
+    }
+]

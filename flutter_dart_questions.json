@@ -1,0 +1,362 @@
+[
+  {
+    "title": "What is Flutter?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is Dart?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What are Dart data types?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain 'var' keyword.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we define optional parameters in a function/method?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we give default values to function/method parameters?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the difference between extends and implements?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the static keyword?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What does the .. operator do?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What are the Dart collection types?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is Generic data type?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is 'pub' in Dart?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the difference between package and plugin?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is 'pub' in Dart?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the 'throw' keyword?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What does the 'show', 'hide' and 'as' do while importing packages/libraries?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Tell me about asynchronous programming in Dart?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is an isolate?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What does the 'show', 'hide' and 'as' do while importing packages/libraries?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'late' keyword.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is a Callback method?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is BuildContext?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is Key?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is Material Design?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is MaterialApp?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is Scaffold?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the 'pubspec.yaml' file?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Compare Hot Reload vs Hot Restart & Build From Scratch",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'await' & 'async' keywords",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What happens if the 'await' keyword is not used when calling an async function?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "When can we use the 'await' keyword?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Compare Hot Reload vs Hot Restart & Build From Scratch",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Why can't we call an async function with the 'await' keyword inside initState?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Why can't we mark the initState method 'async'?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use async functions inside the 'initState'?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What are the lifecycle methods?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Why do we need State Management?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is Stream?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain how to use StreamBuilder",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain how to use ListView.builder",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the difference between ListView and ListView.builder?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the difference between const and final?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use implicit animations?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use explicit animations?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the difference between GestureDetection and InkWell?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain routing in Flutter",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain named routes in Flutter",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is setState?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is mixin? How it is used?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is an extension? How it is used?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use Theme in Flutter?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain meterial3.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain null safety and null aware operators.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use Theme in Flutter?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use Theme in Flutter?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the form validation steps in Flutter",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How do we use different image assets for different screen sizes?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Can we use setState inside initState?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'mounted' property of the StatefulWidget and tell me when to use this property.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the InheritedWidget",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "What is the difference between Stateful and Stateless widgets?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How do we achieve a 'responsive' UI?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we make the app 'adaptive'?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'createState' method.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'initState' method.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'didUpdateDependencies' method.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'build' method.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'didUpdateWidget' method.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'dispose' method.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can you carry data/arguments while using named routes?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "How can we use Singleton pattern in Dart?",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  },
+  {
+    "title": "Explain the 'kDebugMode'.",
+    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "category": "Flutter & Dart Questions"
+  }
+]
