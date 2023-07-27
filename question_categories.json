@@ -16,12 +16,17 @@
     },
     {
         "name": "Flutter & Dart Questions",
-        "numberOfQuestions": 71,
+        "numberOfQuestions": 69,
         "apiUrl":"https://basakk6.github.io/questions/flutter_dart_questions.json"
     },
     {
         "name": "General Programming Questions",
         "numberOfQuestions": 4,
         "apiUrl":"https://basakk6.github.io/questions/general_programming_questions.json"
+    },
+    {
+        "name": "All Questions",
+        "numberOfQuestions": 171,
+        "apiUrl":"https://basakk6.github.io/questions/all_questions.json"
     }
 ]
