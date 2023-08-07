@@ -65,7 +65,7 @@
     "category": "Flutter & Dart Questions"
   },
   {
-    "title": "What is the 'throw' keyword?",
+    "title": "Explain the 'throw' keyword?",
     "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
     "category": "Flutter & Dart Questions"
   },
@@ -75,7 +75,7 @@
     "category": "Flutter & Dart Questions"
   },
   {
-    "title": "Tell me about asynchronous programming in Dart?",
+    "title": "Explain asynchronous programming in Dart?",
     "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
     "category": "Flutter & Dart Questions"
   },
@@ -150,11 +150,6 @@
     "category": "Flutter & Dart Questions"
   },
   {
-    "title": "Compare Hot Reload vs Hot Restart & Build From Scratch",
-    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
-    "category": "Flutter & Dart Questions"
-  },
-  {
     "title": "Why can't we call an async function with the 'await' keyword inside initState?",
     "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
     "category": "Flutter & Dart Questions"
@@ -191,7 +186,7 @@
   },
   {
     "title": "Explain how to use ListView.builder",
-    "answer": "Right now, there is no answer to this question. Our team is working on this, please wait for an update.",
+    "answer": "In Flutter, ListView.builder is a widget that allows you to create a scrollable list of items efficiently. It is particularly useful when dealing with large lists or dynamic data as it creates only the widgets that are visible on the screen, recycling the ones that are scrolled off the screen. This results in better performance and reduced memory usage compared to traditional ListView widgets.\n\nHere's how to use ListView.builder:\n\n1) First, make sure to import the Flutter material library, as it includes the ListView widget:\n\nimport 'package:flutter/material.dart';\n\n2) Define the data source: Prepare the list of data that you want to display in the ListView. This data could be fetched from an API, a database, or any other source.\n\nList<String> itemList = ['Item 1','Item 2','Item 3','Item 4',];  //Add more items as needed\n\n3) Create the ListView.builder widget: Use the ListView.builder constructor to create the scrollable list. It takes two main parameters: \\na) itemBuilder: A callback function that returns a widget for each item in the list. \nb) itemCount: The number of items in the list.\n\n4) Customize the item widget: In the itemBuilder callback, you can customize each item's appearance based on the data in the itemList. For example, each item can be represented by a ListTile widget, which is a convenient way to display a simple row with a title. You can use any other widget as per your requirements to display the item data in a customized manner.\n\nThat's it! You now have a working ListView.builder that dynamically creates widgets as the user scrolls, making it efficient for large lists and optimizing performance.\n\nKeep in mind that ListView.builder is typically used for small and medium-sized lists, but for an extensive list of items, you might consider using ListView.separated or other more specialized ListView constructors for better control over the appearance and performance.",
     "category": "Flutter & Dart Questions"
   },
   {
